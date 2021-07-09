@@ -1,0 +1,12 @@
+Using linux  commands :
+
+Installing modules  using command:
+
+sudo pip install streamlit yfinance
+
+Run app A new tab will open in your default browser using command:
+
+streamlit run program.py
+
+
+
