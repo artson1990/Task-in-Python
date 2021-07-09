@@ -26,10 +26,7 @@ sudo pip install streamlit yfinance
 #### Demo Usage Streamlit
 
 ````
-
 streamlit run program.py
-````
-
 ````
 
 #### Demo Usage Docker
